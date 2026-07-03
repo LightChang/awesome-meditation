@@ -22,6 +22,7 @@ free online resources on meditation and mindfulness. ideally free, downloadable 
 * [Silent Meditation Timers](https://www.the-guided-meditation-site.com/zen-meditation-timer.html) (mp3) Bells and Gongs for Silent meditations of different lengths (5-60mins)
 * [generative.fm](https://generative.fm/) (str/mp3) Ambient generative music to stream or download, some pieces are very calm others more engaging 
 * [Coffitivity](https://coffitivity.com/) (str) Different cafe ambient soundscapes
+* [Vuko](https://www.vuko.life/) (str) Binaural beats that adapt to your breathing in real time (optional mic, processed locally); pick sleep, focus or meditation; open-source, no sign-up
 
 ## 📻️ podcasts 
 * ⭐️ [Ten Percent Happier](https://www.tenpercent.com/podcast/) (rss) Podcast by ABC TV host Dan Harris and guests (>1hr)
